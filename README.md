@@ -27,7 +27,7 @@ This project focuses on predicting movie ratings using collaborative filtering t
 The ALS model provided significant improvements over SVD, demonstrating its effectiveness in movie ratings prediction.
 
 ## Dependencies
-pandas
+** pandas
 numpy
 scikit-learn
 scipy
