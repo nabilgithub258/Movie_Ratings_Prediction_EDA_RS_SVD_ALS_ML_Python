@@ -29,13 +29,19 @@ The ALS model provided significant improvements over SVD, demonstrating its effe
 ## Dependencies
 - **pandas**
 - **numpy**
-**scikit-learn**
-**scipy**
-**implicit**
+- **scikit-learn**
+- **scipy**
+- **implicit**
 
 ## Contributing
-We welcome contributions to this project! If you have any suggestions, bug reports, or improvements.
+We welcome contributions to this project! If you have any suggestions, bug reports, or improvements, please follow these steps:
 
+- Fork the repository.
+- Create a new branch for your feature or bugfix.
+- Make your changes and commit them with clear and descriptive messages.
+- Push your changes to your forked repository.
+- Submit a pull request to the main repository.
+  
 ## Acknowledgements
 We would like to acknowledge the sources and libraries that made this project possible.
 
